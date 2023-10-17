@@ -1,1 +1,1 @@
-# -Real-time-Stock-Price-Data-Visualization
+# Real-time-Stock-Price-Data-Visualization
